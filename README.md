@@ -19,9 +19,9 @@
 
 &nbsp;
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=254Jason&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WorldwaysoneDevelopers&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=254Jason&layout=compact&langs_count=7&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WorldwaysoneDevelopers&layout=compact&langs_count=7&theme=github_dark"/>
 
   
 <br />
@@ -29,7 +29,7 @@
 </div>
 <a href="https://www.linkedin.com/in/reinhard-kiprop-15a52a216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-![Snake animation](https://github.com/254Jason/254Jason/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/WorldwaysoneDevelopers/WorldwaysoneDevelopers/blob/output/github-contribution-grid-snake.svg)
     
   
 </div>
